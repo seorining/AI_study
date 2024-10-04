@@ -23,8 +23,11 @@
 #### &nbsp;&nbsp; Tutorials
 - Pytorch로 딥러닝하기: 60분만에 끝장내기 (https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
 
-#### &nbsp;&nbsp; Deep_learning_with_pytorch
+#### &nbsp;&nbsp; Deeplearning_with_pytorch
 - 딥러닝 파이토치 교과서 (서지영) [길벗]
+
+#### &nbsp;&nbsp; Standalone_Deeplearning
+- 딥러닝 홀로서기 (https://github.com/heartcored98/Standalone-DeepLearning)
 
 
 </br>
