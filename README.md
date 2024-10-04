@@ -32,7 +32,7 @@
 
 </br>
 
-## Machine Learning (Update 예정)
+## Machine Learning
 
 #### &nbsp;&nbsp; Hands-On Machine Learning
 - 핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 [2판] (저: 오렐리앙 제롱, 역 : 박해선)
