@@ -15,7 +15,7 @@
 
 ### Python
 
-#### &nbsp;&nbsp; Data_Science_School
+#### &nbsp;&nbsp; Data_Science_School [Numpy, Pandas, Visualization]
 - 데이터 사이언스 스쿨 파이썬 편 (https://datascienceschool.net/intro.html)
 
 #### &nbsp;&nbsp; 300제
