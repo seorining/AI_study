@@ -10,9 +10,16 @@
 #### &nbsp;&nbsp; Pandas_note
 - 한 권으로 끝내는 <판다스 노트> (테디노트, Min) (https://wikidocs.net/book/4639)
 
-#### &nbsp;&nbsp; 300
+#### &nbsp;&nbsp; 300제
 - 데이터 분석 입문자를 위한 파이썬 판다스 300제 (유대표, 조대표) (https://wikidocs.net/book/4852)
 
+### Python
+
+#### &nbsp;&nbsp; Data_Science_School
+- 데이터 사이언스 스쿨 파이썬 편 (https://datascienceschool.net/intro.html)
+
+#### &nbsp;&nbsp; 300제
+- 초보자를 위한 파이썬 300제 (조대표, 유대표) (https://wikidocs.net/book/922)
 
 </br>
 
