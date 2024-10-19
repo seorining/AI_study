@@ -8,21 +8,21 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## 목차
 
-### [Data Analysis](#data-analysis)
+### [1. Data Analysis](#data-analysis)
 - Pandas
 - Python
   
-### [Deep Learning](#deep-learning)
+### [2. Deep Learning](#deep-learning)
 - Pytorch
 
-### [Machine Learning](#machine-learning)
+### [3. Machine Learning](#machine-learning)
 </br>
 
 
 
 ## Data Analysis
 
-### Pandas
+### ❍ Pandas
 
 #### &nbsp;&nbsp; Pandas_note
 - 한 권으로 끝내는 <판다스 노트> (테디노트, Min) (https://wikidocs.net/book/4639)
@@ -30,7 +30,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 #### &nbsp;&nbsp; 300
 - 데이터 분석 입문자를 위한 파이썬 판다스 300제 (유대표, 조대표) (https://wikidocs.net/book/4852)
 
-### Python
+### ❍ Python
 
 #### &nbsp;&nbsp; Data_Science_School [Numpy, Pandas, Visualization]
 - 데이터 사이언스 스쿨 파이썬 편 (https://datascienceschool.net/intro.html)
@@ -42,7 +42,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## Deep Learning
 
-### Pytorch
+### ❍ Pytorch
 
 #### &nbsp;&nbsp; Tutorials
 - Pytorch로 딥러닝하기: 60분만에 끝장내기 (https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
