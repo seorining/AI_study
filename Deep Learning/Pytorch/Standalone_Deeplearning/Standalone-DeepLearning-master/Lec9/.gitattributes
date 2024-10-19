@@ -1,3 +1,0 @@
-list_feature.npy filter=lfs diff=lfs merge=lfs -text
-list_adj.npy filter=lfs diff=lfs merge=lfs -text
-list_logP.npy filter=lfs diff=lfs merge=lfs -text

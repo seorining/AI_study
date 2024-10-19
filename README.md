@@ -1,6 +1,23 @@
 # AI_study
 
-- 공부하면서 실습한 코드들...
+  공부하면서 실습한 코드 모음
+
+- 마크다운 문법  
+https://gist.github.com/ihoneymon/652be052a0727ad59601   
+(상세 가이드) "Markdown Guide (https://www.markdownguide.org/)"
+
+## 목차
+
+### [Data Analysis](#data-analysis)
+- Pandas
+- Python
+  
+### [Deep Learning](#deep-learning)
+- Pytorch
+
+### [Machine Learning](#machine-learning)
+</br>
+
 
 
 ## Data Analysis
@@ -10,7 +27,7 @@
 #### &nbsp;&nbsp; Pandas_note
 - 한 권으로 끝내는 <판다스 노트> (테디노트, Min) (https://wikidocs.net/book/4639)
 
-#### &nbsp;&nbsp; 300제
+#### &nbsp;&nbsp; 300
 - 데이터 분석 입문자를 위한 파이썬 판다스 300제 (유대표, 조대표) (https://wikidocs.net/book/4852)
 
 ### Python
@@ -18,7 +35,7 @@
 #### &nbsp;&nbsp; Data_Science_School [Numpy, Pandas, Visualization]
 - 데이터 사이언스 스쿨 파이썬 편 (https://datascienceschool.net/intro.html)
 
-#### &nbsp;&nbsp; 300제
+#### &nbsp;&nbsp; 300
 - 초보자를 위한 파이썬 300제 (조대표, 유대표) (https://wikidocs.net/book/922)
 
 </br>
