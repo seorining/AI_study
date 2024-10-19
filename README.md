@@ -53,6 +53,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 #### &nbsp;&nbsp; Standalone_Deeplearning
 - 딥러닝 홀로서기 (https://github.com/heartcored98/Standalone-DeepLearning)
 
+#### &nbsp;&nbsp; RLfrombasics
+- 바닥부터 배우는 강화학습 (노승은) (https://github.com/seungeunrho/RLfrombasics)
 
 </br>
 
