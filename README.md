@@ -70,7 +70,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(머신러닝부분만)
 
-#### &nbsp;&nbsp; 데싸노트의 실전에서 통하는 머신러닝 [예정]
+#### &nbsp;&nbsp; Machine Learning that works in practice [예정]
 - 데싸노트의 실전에서 통하는 머신러닝 (권시현) [골든래빗]
 
 #### &nbsp;&nbsp; 머신러닝, 딥러닝 문제해결 전략 [예정]
